@@ -1,4 +1,4 @@
 Everything solved
 ===========
 
-Repositorio para treinar uso do GIT HUB
+Quando entrarem lembre-se de commitar
