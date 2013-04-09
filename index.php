@@ -6,5 +6,7 @@
 </head>
 <body>
     <div id="cabeca"></div>
+    
+    <div id="mãos"></div> 
 </body>
 </html>
